@@ -660,11 +660,6 @@ myopenrouter.com
 mywot.com
 nationalgeographic.com
 nebula-cdn.kampyle.com
-needed
-to
-download
-windows
-11"},{"id":8042,"type":0,"domain
 neow.in
 neowin.net
 netdna-ssl.com
@@ -925,7 +920,6 @@ slashdot.org
 slatestarcodex.com
 sls.update.microsoft.com.akadns.net
 smartplugin.youbora.com
-sml
 sml156.wordpress.com
 snopes.com
 sodc.wunderground.com
